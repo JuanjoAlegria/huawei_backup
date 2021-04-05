@@ -1,7 +1,7 @@
 """Based on "Decrypting password-based encrypted backup data for Huawei smartphones"
 (https://www.researchgate.net/publication/330731285_Decrypting_password-based_encrypted_backup_data_for_Huawei_smartphones)
 
-Adopted from https://github.com/RealityNet/kobackupdec
+Adapted from https://github.com/RealityNet/kobackupdec
 """
 
 import os
